@@ -11,7 +11,7 @@ const fontSans = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Meciz",
+  title: "Medicz",
   description: "A healthcare care Management System",
 };
 
